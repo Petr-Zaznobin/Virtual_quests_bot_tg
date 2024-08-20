@@ -1,5 +1,0 @@
-2024-08-20 23:24:55,646 - aiogram.dispatcher - INFO - Start polling
-2024-08-20 23:24:55,895 - aiogram.dispatcher - INFO - Run polling for bot @virtual_quests_bot id=7433176946 - 'Пятый угол: Virtual Quests'
-2024-08-20 23:27:10,380 - aiogram.dispatcher - WARNING - Received SIGINT signal
-2024-08-20 23:27:10,385 - aiogram.dispatcher - INFO - Polling stopped for bot @virtual_quests_bot id=7433176946 - 'Пятый угол: Virtual Quests'
-2024-08-20 23:27:10,385 - aiogram.dispatcher - INFO - Polling stopped
