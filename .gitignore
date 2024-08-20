@@ -1,6 +1,6 @@
+*.log
 .idea
 tmp
 config.py
 *.env
 uploads
-*.log
